@@ -1,0 +1,24 @@
+#Internal package file, do not edit.
+#Mon Apr 24 15:52:06 JST 2017
+2.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dbd09a526014a9105e796d2f3936d1896ecafeb
+5.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_912be0621b27bbae2c7a9c5d09ffb17f59aa8abc/classes.dex
+5.set=DEX
+3.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+6.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+2.set=DEX
+4.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+count=7
+0.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+5.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_912be0621b27bbae2c7a9c5d09ffb17f59aa8abc
+4.set=ANDROID_RESOURCE
+6.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+1.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+2.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dbd09a526014a9105e796d2f3936d1896ecafeb/classes.dex
+6.set=ANDROID_RESOURCE
+0.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+3.set=ANDROID_RESOURCE
+1.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+0.set=ANDROID_RESOURCE

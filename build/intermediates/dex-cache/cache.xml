@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/niroshan/Desktop/del/php/Spy1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/niroshan/Desktop/del/php/Spy1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_b318daad4707cf5854b28ac2a6c38c442f62c35f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niroshan/Desktop/del/php/Spy1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="28e44b88b38f8883d71e282bfa6f5fd1ef547c2c">
+        <dex dex="/Users/niroshan/Desktop/del/php/Spy1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_612fef6e98d64cd571cb8993c1bd2e9ac7648003/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/niroshan/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/niroshan/Desktop/del/php/Spy1/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0_6177bb75f51d1c0c7ae0ae8a764fe6433b4191f8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_912be0621b27bbae2c7a9c5d09ffb17f59aa8abc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bc01aa99143fc36db1ae91de5c473d5cc4bc2bc5">
+        <dex dex="/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4dbd09a526014a9105e796d2f3936d1896ecafeb/classes.dex" />
+    </item>
+
+</items>

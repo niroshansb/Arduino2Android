@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Mon Apr 24 15:52:05 JST 2017
+1.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+1.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/res/menu/main.xml
+0.file=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.base=/Users/niroshan/Desktop/del/translate - Google Search_files/andro/app/build/intermediates/res/resources-debug.ap_
