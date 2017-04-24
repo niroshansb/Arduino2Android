@@ -314,7 +314,7 @@ public class MainActivity extends Activity {
 
 
 	HttpClient httpclient = new DefaultHttpClient();
-	HttpPost httppost = new HttpPost("http://mapmint.media.osaka-cu.ac.jp/php/weather.php");
+	HttpPost httppost = new HttpPost("<your php url>");
 
 	try {
 	    // Add your data
